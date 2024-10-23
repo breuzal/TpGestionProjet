@@ -20,7 +20,7 @@ Nous allons modifier le fichier README.md qui est affiché quand on arrive que l
 4. Modifiez le fichier puis appuyez sur "Commit changes..." (bouton vert en haut à droite)
 5. Une boite de dialogue s'affiche avec la possibilité d'ajouter un "Commit messaage". Ce message est très important, il va permettre de faire comprendre aux autres membres de l'équipe pourquoi on a fait ce changement. Saisissez : "Tester la modification".
 6. Vérifiez bien que l'option "Commit directly to the main branch" est séléctionné et validez.
-7. Voilà votre première modification.😉
+7. Voilà votre première modification.
 
 ### Travailler à plusieurs
 On va tenter de modifier le readme à partir du compte d'une autre personne.
