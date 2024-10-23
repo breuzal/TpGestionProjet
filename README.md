@@ -81,6 +81,15 @@ mindmap
         ✂️ Découper en tronçon *4min*
         ♨️ Cuisson *3x10min*
 ```
+2e test 
+```mermaid
+flowchart TD
+    A[Christmas] -->|Get money| B(Go shopping)
+    B --> C{Let me think}
+    C -->|One| D[Laptop]
+    C -->|Two| E[iPhone]
+    C -->|Three| F[fa:fa-car Car]
+```
 
 ### Gantt
 Prenez l'une des branches de la Work Breakdown Structure et créer un diagramme de Gantt ([documentation](https://mermaid.js.org/syntax/gantt.html)).
