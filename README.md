@@ -69,17 +69,17 @@ N'oubliez pas de préciser une estimation de temps pour chaque tache.
 
 ```mermaid
 mindmap
-  root((Fabrication de pizzas))
-    Préparation
-        🧀 Ramollir le beurre *25min*
-        ☕ Faire fondre le chocolat *15min*
-        🍫 Tailler le chocolat en pépite *10min*
-        🍪 Assemblage finale *30min*
-    ❄️Mettre au frais *3h*
+  root(Faire une pizza 🍕)
+    Préparation des ingrédients 
+        Faire la pâte *20 min*
+        Faire la sauce *15 min*
+        Raper le fromage *10 min*
+        Couper le jambon *5 min*
+        Assemblage de la pizza *5 min*
+    Faire reposer la pâte *2 h*
     Cuisson
-        🌡️ Four à température *15min*
-        ✂️ Découper en tronçon *4min*
-        ♨️ Cuisson *3x10min*
+        Préchauffer le four *15 min*
+        Cuire la pizza *30 min*
 ```
 2e test 
 ```mermaid
