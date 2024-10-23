@@ -69,9 +69,9 @@ N'oubliez pas de préciser une estimation de temps pour chaque tache.
 
 ```mermaid
 mindmap
-  root)Fabrication de cookies(
-    Assemblage
-        🧈 Ramollir le beurre *25min*
+  root((Fabrication de pizzas))
+    Préparation
+        🧀 Ramollir le beurre *25min*
         ☕ Faire fondre le chocolat *15min*
         🍫 Tailler le chocolat en pépite *10min*
         🍪 Assemblage finale *30min*
